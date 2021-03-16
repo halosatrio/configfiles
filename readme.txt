@@ -13,6 +13,13 @@ terminator-config:
 	- font: mesloLGS NF Regular, 10
 	- color-palette: dracula
 	
+ubuntu keyboard shortcut:
+	- Home folder: `Super+E`
+	- Launch terminal: `Super+T`
+	- Settings: `Super+I`
+	- hide all normal windows: `Super+M`
+	- show the notification list: Disabled
+
 apps instaled:
 	- vscode
 	- insomnia
@@ -40,4 +47,4 @@ vscode extensions:
 Fonts installed:
 	- Fira Code
 	- mesloLGS NF
-	
+
