@@ -1,0 +1,15 @@
+[user]
+	email = 63773815+halosatrio@users.noreply.github.com
+	name = halosatrio
+
+[alias]
+	alias = config --get-regexp "alias.*"
+        st = status
+	a = add .
+        ci = commit -m
+	co = checkout
+	br = branch
+hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	last = log -1 HEAD
+	log = log --full-history
+	lol = log --all --oneline --graph --decorate

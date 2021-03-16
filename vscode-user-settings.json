@@ -1,0 +1,44 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 13,
+  // "editor.fontLigatures": true,
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "extensions.autoUpdate": false,
+  "workbench.startupEditor": "welcomePage",
+  "window.restoreWindows": "none",
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  // "editor.codeActionsOnSave": null
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+    // "source.organizeImports": true
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.linkedEditing": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "extensions.ignoreRecommendations": false,
+  "git.enableSmartCommit": true,
+  "editor.detectIndentation": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jupyter.askForKernelRestart": false,
+  "json.maxItemsComputed": 50000,
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "One Dark Pro"
+}
