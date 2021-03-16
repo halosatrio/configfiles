@@ -41,14 +41,3 @@ Fonts installed:
 	- Fira Code
 	- mesloLGS NF
 	
-git aliases:
-alias.alias config --get-regexp alias.*
-alias.st status
-alias.a add .
-alias.ci commit -m
-alias.co checkout
-alias.br branch
-alias.hist log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
-alias.last log -1 HEAD
-alias.log log --full-history
-alias.lol log --all --oneline --graph --decorate
